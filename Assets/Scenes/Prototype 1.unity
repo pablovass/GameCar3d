@@ -1211,7 +1211,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &563606126
+--- !u!114 &563606122
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1220,10 +1220,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 563606120}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5c501a7414f6ced4fa15ce30f0ed0c71, type: 3}
+  m_Script: {fileID: 11500000, guid: 308f5df8f440895449de8e7806e37d4e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
+  speed: 5
+  turnSpeed: 50
 --- !u!1001 &578002886
 PrefabInstance:
   m_ObjectHideFlags: 0
